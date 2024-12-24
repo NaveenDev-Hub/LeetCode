@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

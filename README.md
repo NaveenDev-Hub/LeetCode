@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

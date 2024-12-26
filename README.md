@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
+| [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0066-plus-one) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

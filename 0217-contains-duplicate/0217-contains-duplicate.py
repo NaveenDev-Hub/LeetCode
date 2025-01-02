@@ -10,9 +10,7 @@ class Solution:
                 num_map[num] += 1
             else:
                 num_map[num] = 1
-        print("mappppppppp", num_map)
         for k in num_map.values():
             if k >= 2:
                 return True
-            # else:
         return False

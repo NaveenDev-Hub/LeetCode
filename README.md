@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
@@ -143,10 +146,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0871-keys-and-rooms](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

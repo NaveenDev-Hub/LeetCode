@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0735-asteroid-collision) |
+| [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |

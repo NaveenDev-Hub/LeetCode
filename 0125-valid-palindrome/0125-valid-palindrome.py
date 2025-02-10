@@ -1,9 +1,11 @@
 import re
+
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         n = len(s)
         L = 0
-        R= n-1
+        R = n - 1
         while L < R:
             if not s[L].isalnum():
                 L += 1

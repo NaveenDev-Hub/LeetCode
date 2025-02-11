@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Sorting
 |  |

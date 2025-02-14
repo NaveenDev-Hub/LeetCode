@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 ## Sorting

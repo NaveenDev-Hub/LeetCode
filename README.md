@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |

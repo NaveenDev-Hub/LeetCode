@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

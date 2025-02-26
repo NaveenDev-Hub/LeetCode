@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

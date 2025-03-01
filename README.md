@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0389-find-the-difference) |
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
@@ -265,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

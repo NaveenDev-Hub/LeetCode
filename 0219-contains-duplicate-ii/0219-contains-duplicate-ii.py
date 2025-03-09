@@ -1,8 +1,9 @@
 class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
-        d = {}
+        hashSet = {}
         for i in range(len(nums)):
-            if nums[i] in d and i - d[nums[i]] <= k:
+            if nums[i] in hashSet and abs(i - hashSet[nums[i]]) <= k:
                 return True
-            d[nums[i]] = i
-        return False
+            else:
+                hashSet[nums[i]] = i
+        return False 

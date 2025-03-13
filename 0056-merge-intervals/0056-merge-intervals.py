@@ -4,7 +4,7 @@ class Solution:
         prev = intervals[0]
         merged_list =[]
         i = 1
-        for interval in intervals:
+        for interval in intervals[1:]:
             curr = interval
             if curr[0] <= prev[1]:
                 prev[1] = max(curr[1], prev[1])

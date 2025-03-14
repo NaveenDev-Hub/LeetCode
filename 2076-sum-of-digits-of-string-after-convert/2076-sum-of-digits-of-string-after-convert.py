@@ -5,9 +5,7 @@ class Solution:
         sub_total = ""
         for i in range(len(s)):
             sub_total += mp[s[i]]
-        
-        covert = int(sub_total)
-        iter = 0
+ 
         while(k > 0):
             temp = 0
             for x in sub_total:

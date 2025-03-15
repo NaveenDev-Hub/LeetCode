@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2083-three-divisors](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2083-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -298,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->

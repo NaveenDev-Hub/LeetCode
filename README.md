@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Math
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0202-happy-number) |

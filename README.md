@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0049-group-anagrams) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0125-valid-palindrome) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0118-pascals-triangle) |
@@ -328,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0054-spiral-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

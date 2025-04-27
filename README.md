@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0392-is-subsequence) |

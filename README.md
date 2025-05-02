@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1046-max-consecutive-ones-iii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Greedy
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Depth-First Search

@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3429-special-array-i](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3430-count-days-without-meetings](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |

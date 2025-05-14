@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |

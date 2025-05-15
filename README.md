@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0768-partition-labels) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Divide and Conquer
 |  |
 | ------- |

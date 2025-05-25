@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Stack
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |

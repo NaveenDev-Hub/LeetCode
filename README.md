@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Stack
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0768-partition-labels) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 ## Divide and Conquer
 |  |
 | ------- |

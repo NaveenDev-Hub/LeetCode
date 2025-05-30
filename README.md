@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Stack
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3429-special-array-i](https://github.com/NaveenDev-Hub/LeetCode/tree/master/3429-special-array-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NaveenDev-Hub/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenDev-Hub/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/NaveenDev-Hub/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
